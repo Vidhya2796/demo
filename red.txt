@@ -1,0 +1,1 @@
+https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkLP%3D40359570 
